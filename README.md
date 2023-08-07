@@ -1,6 +1,6 @@
 # Slim Launcher
 
-*A simple Minecraft Launcher wriiten in Python*
+*A simple Minecraft Launcher written in Python*
 
 ## Features
 
